@@ -1,0 +1,1 @@
+<?php partial('page-hero', ['dept' => $dept, 'kicker' => 'Błąd 404', 'h1' => 'Tej strony <em class="s">nie ma</em>', 'lead' => 'Adres mógł się zmienić. Wróć do strony głównej działu albo wybierz pozycję z menu.', 'scene' => 'dusk', 'crumbs' => [['404', null]]]); ?>
